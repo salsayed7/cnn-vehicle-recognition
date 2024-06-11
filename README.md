@@ -4,7 +4,8 @@ Link <a href="https://www.figma.com/file/lfJOlND64rLK5azyaCd4Jh/Bachelorarbeit-C
 
 # Setup
 - Install `Anaconda` from <a href="https://www.anaconda.com/download" target="_blank">here</a>
-- Open `JupyterLab` from `Anaconda Navigator`
+- Open `JupyterLab` from `Anaconda Navigator` or from Terminal/Powershell using "jupyter lab" in the target directory.
+- Download Models from <a href="https://drive.google.com/drive/folders/1pA-49Ci3gXO6-iylLxPuWhSAZMx5BANQ?usp=sharing" target="_blank">here</a>
 
 # Index
 - In `Literature` you can find research documents for referencing
