@@ -2,6 +2,10 @@
 <img src="Diagram.jpg" alt="" style="width: 100%;" />
 Link <a href="https://www.figma.com/file/lfJOlND64rLK5azyaCd4Jh/Bachelorarbeit-Computervision?type=whiteboard&node-id=0-1&t=FiaqyC9ke1vd8c8t-0" target="_blank">here</a>
 
+# Pipeline
+<img src="samples/pipeline.jpg" alt="" style="width: 100%;" />
+Link <a href="https://www.figma.com/board/PcARlDF4uVp4cVpFc5CEgE/Pipeline?node-id=0-1&t=Vh6HrgbkORjtOMnT-0" target="_blank">here</a>
+
 # Setup
 - Install `Anaconda` from <a href="https://www.anaconda.com/download" target="_blank">here</a>
 - Open `JupyterLab` from `Anaconda Navigator` or from Terminal/Powershell using "jupyter lab" in the target directory.
