@@ -10,13 +10,18 @@ Link <a href="https://www.figma.com/board/PcARlDF4uVp4cVpFc5CEgE/Pipeline?node-i
 - Install `Anaconda` from <a href="https://www.anaconda.com/download" target="_blank">here</a>
 - Open `JupyterLab` from `Anaconda Navigator` or from Terminal/Powershell using "jupyter lab" in the target directory.
 - Download Models from <a href="https://drive.google.com/drive/folders/1pA-49Ci3gXO6-iylLxPuWhSAZMx5BANQ?usp=sharing" target="_blank">here</a>
+- Download Videos used from <a href="https://drive.google.com/drive/folders/1pA-49Ci3gXO6-iylLxPuWhSAZMx5BANQ?usp=sharing" target="_blank">here</a>
+- Put downloaded content in the same folder as the project after cloning
+- Open `MainCode.ipynb` and run every cell until you reach the Run Pipeline cell
 
 # Index
 - In `Literature` you can find research documents for referencing
-- In `LicensePlateProject` is the source code and the actual progress of the project
-- In `Resources` you can find ready made models and codes
+- In `MainCode.ipynb` is the source code and the actual progress of the project, it is commented and the whole pipeline is in it, run every cell and try
+- In `LicensePlateProject.ipynb` and `LicensePlateProject_.ipynb` is everything in the source code that was tested there first (warning: You may need a lot of RAM to load these files)
+- In `CommentedCode.ipynb`you can find commented explained code, it is the main code used
+- In `training_.ipynb`you can find the code used to unzip files quickly and to connect to Google Drive on a Colab Notebook and also to train models, the details of the trained models are all there
 
-# Definitions
+# General Definitions
 - `Train/Test` is a method to measure the accuracy of the model.
 - It is called `Train/Test` because the data is split into two sets: a `training set` and a `testing set`.
 - 80% for `training`, and 20% for `testing`.
@@ -43,6 +48,7 @@ Link <a href="https://www.figma.com/board/PcARlDF4uVp4cVpFc5CEgE/Pipeline?node-i
 - SORT for Realtime Multi-Object Tracking Repo <a href="https://github.com/abewley/sort" target="_blank">here</a>
 - DeepSORT Repo <a href="https://github.com/nwojke/deep_sort" target="_blank">here</a>
 - LocalMOT Repo <a href="https://github.com/google-research/localmot" target="_blank">here</a>
+- And more in the paper...
 
 # Literature
 - End-To-End License Plate Detection and Recognition <a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenbo_Xu_Towards_End-to-End_License_ECCV_2018_paper.pdf" target="_blank">here</a>
@@ -64,3 +70,4 @@ Link <a href="https://www.figma.com/board/PcARlDF4uVp4cVpFc5CEgE/Pipeline?node-i
 - CRNN <a href="https://arxiv.org/abs/1507.05717" target="_blank">Article</a> <a href="https://arxiv.org/abs/1507.05717.pdf" target="_blank">Document</a> <a href="https://github.com/bgshih/crnn#run-demo" target="_blank">Repository</a>
 - RRPN++ <a href="https://arxiv.org/abs/2009.13118" target="_blank">Article</a> <a href="https://arxiv.org/abs/2009.13118.pdf" target="_blank">Document</a> <a href="https://github.com/mjq11302010044/RRPN_plusplus" target="_blank">Repository</a>
 - TextBoxes++ <a href="https://arxiv.org/abs/1801.02765" target="_blank">Article</a> <a href="https://arxiv.org/abs/1801.02765.pdf" target="_blank">Document</a> <a href="https://github.com/MhLiao/TextBoxes_plusplus?tab=readme-ov-file#models" target="_blank">Repository</a>
+- And more in the paper...
