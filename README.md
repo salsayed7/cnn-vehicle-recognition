@@ -48,6 +48,7 @@ Link <a href="https://www.figma.com/board/PcARlDF4uVp4cVpFc5CEgE/Pipeline?node-i
 - SORT for Realtime Multi-Object Tracking Repo <a href="https://github.com/abewley/sort" target="_blank">here</a>
 - DeepSORT Repo <a href="https://github.com/nwojke/deep_sort" target="_blank">here</a>
 - LocalMOT Repo <a href="https://github.com/google-research/localmot" target="_blank">here</a>
+- Object Tracking <a href="https://docs.ultralytics.com/modes/track/" target="_blank">here</a> 
 - And more in the paper...
 
 # Literature
