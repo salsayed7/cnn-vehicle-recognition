@@ -11,7 +11,7 @@ Link <a href="https://www.figma.com/board/PcARlDF4uVp4cVpFc5CEgE/Pipeline?node-i
 - Open `JupyterLab` from `Anaconda Navigator` or from Terminal/Powershell using "jupyter lab" in the target directory.
 - Download Models from <a href="https://drive.google.com/drive/folders/1pA-49Ci3gXO6-iylLxPuWhSAZMx5BANQ?usp=sharing" target="_blank">here</a>
 - Download Videos used from <a href="https://drive.google.com/drive/folders/1pA-49Ci3gXO6-iylLxPuWhSAZMx5BANQ?usp=sharing" target="_blank">here</a>
-- Put downloaded content in the same folder as the project after cloning
+- Put downloaded content in `src` folder after cloning
 - Open `MainCode.ipynb` and run every cell until you reach the Run Pipeline cell
 
 # Index
